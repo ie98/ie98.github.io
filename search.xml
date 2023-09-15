@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>My New Post</title>
+      <link href="/2023/09/16/My-New-Post/"/>
+      <url>/2023/09/16/My-New-Post/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h2 id="分段"><a href="#分段" class="headerlink" title="分段"></a>分段</h2><p>空一行后进行分段</p><p>第二段</p><h2 id="换行"><a href="#换行" class="headerlink" title="换行"></a>换行</h2><p>使用“&lt;”br”&gt;”<br>换行</p><p>或者结尾使用使用两个以上的空格进行换行<br>回车键无法换行！！！</p><h2 id="斜体和加粗"><a href="#斜体和加粗" class="headerlink" title="斜体和加粗"></a>斜体和加粗</h2><p>单个 * 号斜体，两个 * 号加粗，三个 * 好号斜加粗<br><em>你好</em><br><strong>你好</strong><br><em><strong>你好</strong></em>  </p><h2 id="引用语法（灰色字体）"><a href="#引用语法（灰色字体）" class="headerlink" title="引用语法（灰色字体）"></a>引用语法（灰色字体）</h2><p>使用 “&gt;” 符号  </p><p>鲁迅说过：</p><blockquote><p><strong>这世界本没有路，走的人多了也就成了路。</strong> </p><blockquote><p>露露卡车，啊啊啊啊啊  </p><blockquote><ol><li>引用+列表 </li><li>第二项</li></ol></blockquote></blockquote></blockquote><h2 id="列表语法"><a href="#列表语法" class="headerlink" title="列表语法"></a>列表语法</h2><p>有序列表  </p><ol><li>第一项</li><li>第二项</li></ol><p>无序列表（使用 + - *）</p><ul><li>第一个<ul><li>第二个</li></ul></li><li>第三个</li></ul><ul><li>第一个</li><li>第二个</li></ul><ul><li>第一个<ul><li>第二个<blockquote><p>这里加入了引用</p></blockquote></li></ul></li><li>第三个</li></ul><h2 id="短代码和代码块"><a href="#短代码和代码块" class="headerlink" title="短代码和代码块"></a>短代码和代码块</h2><p>简短代码使用一个或者多个反引号</p><p><code>java</code> 是一门编程语言</p><p><code>import numpy as np np.ndarray()</code>  </p><p>代码块使用tap键或者四个空格或者 三个反引号 </p><pre><code>import numpy as npmatrix = np.ndarray()</code></pre><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">import numpy as np</span><br><span class="line">matrix = np.ndarray()</span><br></pre></td></tr></table></figure><h2 id="分隔线"><a href="#分隔线" class="headerlink" title="分隔线"></a>分隔线</h2><p>使用三个 * 号</p><hr><h2 id="创建链接"><a href="#创建链接" class="headerlink" title="创建链接"></a>创建链接</h2><p>使用中括号+小括号设置超链接  </p><ul><li><em><strong><a href="www.baidu.com,%22%E6%9C%80%E5%9E%AE%E7%9A%84%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%22">百度</a></strong></em></li></ul><p>或者直接使用尖括号 &lt;&gt;</p><p><a href="https://www.baidu.com/">https://www.baidu.com</a>  </p><h2 id="图片设置-跳转链接"><a href="#图片设置-跳转链接" class="headerlink" title="图片设置+跳转链接"></a>图片设置+跳转链接</h2><p><a href="https://markdown.com.cn/"><img src="/assets/img/shiprock.jpg" alt="沙漠中的岩石图片" title="Shiprock"></a></p><h2 id="转义字符语法"><a href="#转义字符语法" class="headerlink" title="转义字符语法"></a>转义字符语法</h2><h2 id="内嵌HTML标签"><a href="#内嵌HTML标签" class="headerlink" title="内嵌HTML标签"></a>内嵌HTML标签</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Demo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> markdowm 基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/09/16/hello-world/"/>
       <url>/2023/09/16/hello-world/</url>
